@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/ChuoqiChen-Kay/ccq.github.io</id>
+    <id>https://ccq.github.io</id>
     <title>CCQ&apos;s Blog</title>
-    <updated>2022-03-05T23:09:23.660Z</updated>
+    <updated>2022-03-05T23:22:30.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/ChuoqiChen-Kay/ccq.github.io"/>
-    <link rel="self" href="https://github.com/ChuoqiChen-Kay/ccq.github.io/atom.xml"/>
+    <link rel="alternate" href="https://ccq.github.io"/>
+    <link rel="self" href="https://ccq.github.io/atom.xml"/>
     <subtitle>Welcome</subtitle>
-    <logo>https://github.com/ChuoqiChen-Kay/ccq.github.io/images/avatar.png</logo>
-    <icon>https://github.com/ChuoqiChen-Kay/ccq.github.io/favicon.ico</icon>
+    <logo>https://ccq.github.io/images/avatar.png</logo>
+    <icon>https://ccq.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, CCQ&apos;s Blog</rights>
     <entry>
         <title type="html"><![CDATA[This is a Test]]></title>
-        <id>https://github.com/ChuoqiChen-Kay/ccq.github.io/post/this-is-a-test/</id>
-        <link href="https://github.com/ChuoqiChen-Kay/ccq.github.io/post/this-is-a-test/">
+        <id>https://ccq.github.io/post/this-is-a-test/</id>
+        <link href="https://ccq.github.io/post/this-is-a-test/">
         </link>
         <updated>2022-02-19T04:11:15.000Z</updated>
         <content type="html"><![CDATA[<p>This is a testing file</p>
